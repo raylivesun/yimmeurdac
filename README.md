@@ -59,32 +59,32 @@ Before you begin, ensure you have the following installed:
 
 ## Project Structure
 
-```
+<br/>
 .
-├── R/                  # R source code, scripts, models
-│   ├── scripts/        # Main R scripts
-│   ├── R/              # R functions/modules
-│   ├── data/           # Data files (or symlinks/instructions)
-│   ├── models/         # Saved model objects
-│   ├── plumber.R       # Plumber API definition (if used)
-│   ├── shiny_app/      # Shiny app directory (if used)
-│   └── renv.lock       # renv lockfile (if used)
-│   └── .Rprofile       # Project-specific R settings
-│
-├── dart_app/           # Dart application source code
-│   ├── lib/            # Main Dart code
-│   ├── bin/            # Executable scripts (if any)
-│   ├── test/           # Unit and widget tests
-│   ├── web/            # Web-specific files (if Flutter web/AngularDart)
-│   ├── android/        # Android-specific files (if Flutter)
-│   ├── ios/            # iOS-specific files (if Flutter)
-│   ├── pubspec.yaml    # Dart package dependencies
-│   └── pubspec.lock    # Dart lockfile
-│
-├── .gitignore          # Git ignore rules
-├── LICENSE             # Project license file
-└── README.md           # This file
-```
+├── R/                  # R source code, scripts, models <br/>
+│   ├── scripts/        # Main R scripts <br/>
+│   ├── R/              # R functions/modules <br/>
+│   ├── data/           # Data files (or symlinks/instructions) <br/>
+│   ├── models/         # Saved model objects <br/>
+│   ├── plumber.R       # Plumber API definition (if used) <br/>
+│   ├── shiny_app/      # Shiny app directory (if used) <br/>
+│   └── renv.lock       # renv lockfile (if used) <br/>
+│   └── .Rprofile       # Project-specific R settings <br/>
+│ <br/>
+├── dart_app/           # Dart application source code <br/>
+│   ├── lib/            # Main Dart code <br/>
+│   ├── bin/            # Executable scripts (if any) <br/>
+│   ├── test/           # Unit and widget tests <br/>
+│   ├── web/            # Web-specific files (if Flutter web/AngularDart) <br/>
+│   ├── android/        # Android-specific files (if Flutter) <br/>
+│   ├── ios/            # iOS-specific files (if Flutter) <br/>
+│   ├── pubspec.yaml    # Dart package dependencies <br/>
+│   └── pubspec.lock    # Dart lockfile <br/>
+│ <br/>
+├── .gitignore          # Git ignore rules <br/>
+├── LICENSE             # Project license file <br/>
+└── README.md           # This file <br/>
+
 
 <!-- Adjust the structure above to match your actual project layout -->
 
