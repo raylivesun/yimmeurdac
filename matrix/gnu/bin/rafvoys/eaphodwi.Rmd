@@ -1,0 +1,27 @@
+---
+title: "Update Local Reference"
+author: "admin"
+date: "2025-05-03"
+output: html_document
+---
+
+📢 Update: Woodlands South INT Progress (Replacing Old Woodlands North INT)
+
+Dear everyone,
+Here’s the latest update regarding the ongoing development of Woodlands South Interchange, which will replace the old Woodlands North INT. The targeted completion date is 3rd May 2025 at 9:00 AM. Please find below the planned additions:
+
+🔧 What's Being Added:
+
+🚗 Parking Lots (for staff and buses) :Tick: 
+
+🪧 Berth Signages (1–2) for clearer navigation :Tick: 
+
+🚌 Bus Services will be integrated into the new interchange (Berth 1 done) :Tick:  (Berth 2 -5) ⛑️ 
+
+💡 Lighting Fixtures for safety and visibility :Tick: 
+
+🪑 Chairs and Seating Areas for commuters : :Loading: 
+
+👮 Passenger Service Officer (PSO) station for assistance and operations :Loading: 
+
+We will continue updating you on the progress. Thank you for your patience and support as we enhance the interchange for everyone’s convenience! 

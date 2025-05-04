@@ -1,0 +1,22 @@
+---
+title: "Connect Lives in Known"
+author: "admin"
+date: "2025-05-03"
+output: html_document
+---
+
+@everyone
+Prohibited Terms Policy
+The following are strictly prohibited on out discord server:
+• Direct use of terms such as "executor, leak, uncopylock, hack, decompile" or their derivatives.
+• Any attempts to bypass filters, including character substitution (e.g., “h@cking,” “le@k”), transliteration, abbreviations, or other methods of masking prohibited terms.
+
+Consequences for Violations:
+First offense: Temporary access restriction (mute) for 7 days.
+Repeated violations: Permanently ban account
+[!] Only for discord server
+
+The administration reserves the right to escalate penalties for severe or systematic abuse, including the use of synonyms, indirect references, or other methods that violate the intent of these rules.
+
+Scope:
+These rules apply to all forms of content, including text messages, channel names, files, and media.

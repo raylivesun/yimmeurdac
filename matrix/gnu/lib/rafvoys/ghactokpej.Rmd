@@ -1,0 +1,22 @@
+---
+title: "Output Side All"
+author: "admin"
+date: "2025-05-03"
+output: html_document
+---
+
+📢 Important Announcement to All Operators
+
+Effective immediately, all drivers must remain at Woodlands Bus Park or Woodlands South Interchange for a minimum of 3 minutes upon arrival.
+
+🕒 Purpose: This is to realistically simulate the unloading and loading of voters as part of our operational procedures.
+
+✅ Please ensure:
+
+You do not depart before the 3-minute wait is over.
+
+This rule is followed strictly to maintain immersion and realism in operations.
+
+Thank you for your cooperation and commitment to high-quality simulation!
+
+— Management Team

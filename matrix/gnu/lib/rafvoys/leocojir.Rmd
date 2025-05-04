@@ -1,0 +1,8 @@
+---
+title: "Couscous with Potateos"
+author: "admin"
+date: "2025-05-03"
+output: html_document
+---
+
+ This is the channel for all things flights, which means any and all announcements, news, and updates about flight options, new routes, new destinations, flight promotions, and changes to previously booked flights will be posted here. If we have a new destination opening, a potential cancellation for which you may need to know, a flight promotion, or anything that pertains to flights and will keep you informed and up to date, it'll be here. Flights will not be discussed anywhere else, such as in partnership channels or job application channels. So make sure to stay up to date. But check back frequently! All information not related to flights will not be posted here! Only flight updates!
